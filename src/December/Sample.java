@@ -10,7 +10,7 @@ public class Sample {
 	public static void main(String[] args) {
 		WebDriver driver=new ChromeDriver();
 		WebDriver dr=new FirefoxDriver();
-		WebDriver d=new InternetExplorerDriver();
+		WebDriver dt=new InternetExplorerDriver(); 
 	}
 
 }
