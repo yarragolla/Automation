@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Executing beforeSuite]]>
+    </line>
+    <line>
+      <![CDATA[Executing beforeTest]]>
+    </line>
+    <line>
+      <![CDATA[Executing beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[Executing beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Executing tc1]]>
+    </line>
+    <line>
+      <![CDATA[Executing afterMethod]]>
+    </line>
+    <line>
+      <![CDATA[Executing afterClass]]>
+    </line>
+    <line>
+      <![CDATA[Executing afterTest]]>
+    </line>
+    <line>
+      <![CDATA[Executing afterSuite]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+      <class name="January.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:January.NewTest@59e5ddf]" name="beforeSuite" is-config="true" duration-ms="9" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing beforeSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:January.NewTest@59e5ddf]" name="beforeTest" is-config="true" duration-ms="1" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing beforeTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:January.NewTest@59e5ddf]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing beforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:January.NewTest@59e5ddf]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:January.NewTest@59e5ddf]" name="tc1" duration-ms="9" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing tc1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:January.NewTest@59e5ddf]" name="afterMethod" is-config="true" duration-ms="3" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing afterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:January.NewTest@59e5ddf]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing afterClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:January.NewTest@59e5ddf]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing afterTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:January.NewTest@59e5ddf]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-01-24T14:39:23Z" finished-at="2020-01-24T14:39:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing afterSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- January.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
